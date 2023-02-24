@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vrushank-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrushank-amin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vrushank-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vrushank-amin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13454865/vrushank-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13454865/vrushank-amin" height="30" width="40" /></a>
 <a href="https://instagram.com/vrushank_1920/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrushank_1920/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vrushank796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vrushank796" height="30" width="40" /></a>
 </p>
