@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud Services**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects based on React and Java SpringBoot**
+- 👯 I’m looking to collaborate on **Full Stack Projects based on React, NodeJs, expressJs and Java SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vrushank796](https://github.com/Vrushank796)
 
