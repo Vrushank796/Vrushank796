@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vrushank Amin</h1>
 <h3 align="center">A passionate full stack developer from Toronto, Ontario, Canada</h3>
 
+<I helped more than 3 startups to launch the innovative web apps which includes apps leveraging AI to manage the different operations. I built everything from the front-end to the back-end and everything in between.
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrushank796&label=Profile%20views&color=0e75b6&style=flat" alt="vrushank796" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrushank796" alt="vrushank796" /></a> </p> -->
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **React, NextJS Projects, AWS**
 
-- 🌱 I’m currently learning **AWS Cloud Services**
+- 🌱 Interested in learning **AWS Cloud Services**, **DevOps**, **Data Analysis**, **Data Science**, **AWS**, **GCP**, **Cyber Security**, **Blockchain Tech**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects based on React, NodeJs, expressJs and Java SpringBoot**
+- 👯 I’m looking to collaborate on **Full Stack Web/App Development, Blockchain and Data Science Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vrushank796](https://github.com/Vrushank796)
 
-- 💬 Ask me about **React, Angular, MongoDB, PostgreSQL, SQL, GraphQL**
+- 💬 Ask me about LLMs, Langchain, AI/ML, Blockchain(Solidity), Cyber Security, AWS, GCP, ReactJS, NextJS, AngularJS, MongoDB, PostgreSQL, SQL, GraphQL, **
 
 - 📫 How to reach me **vrushank796@gmail.com**
 
