@@ -15,7 +15,7 @@ I helped more than 3 startups to launch the innovative web apps which includes a
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vrushank796](https://github.com/Vrushank796)
 
-- 💬 Ask me about LLMs, Langchain, AI/ML, Blockchain(Solidity), Cyber Security, AWS, GCP, ReactJS, NextJS, AngularJS, MongoDB, PostgreSQL, SQL, GraphQL, **
+- 💬 Ask me about LLMs, Langchain, AI/ML, Blockchain(Solidity, Smart Contracts), Cyber Security, AWS, GCP, ReactJS, NextJS, AngularJS, MongoDB, PostgreSQL, SQL, GraphQL, **
 
 - 📫 How to reach me **vrushank796@gmail.com**
 
