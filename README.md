@@ -7,7 +7,7 @@ I helped more than 3 startups to launch the innovative web apps which includes a
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrushank796" alt="vrushank796" /></a> </p> -->
 
-- 🔭 I’m currently working on **React, NextJS Projects, AWS**
+- 🔭 I’m currently working on **SAAS Projects using React, NextJS, Stripe, MongoDB, pineconeDB, AWS, Vercel, chatGPT**
 
 - 🌱 Interested in **AWS Cloud Services, DevOps, Big Data, Data Analysis, Data Science, Cyber Security, Blockchain Tech**
 
