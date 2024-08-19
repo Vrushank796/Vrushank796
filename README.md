@@ -9,7 +9,7 @@ I helped more than 3 startups to launch the innovative web apps which includes a
 
 - 🔭 I’m currently working on **React, NextJS Projects, AWS**
 
-- 🌱 Interested in learning **AWS Cloud Services**, **DevOps**, **Data Analysis**, **Data Science**, **AWS**, **GCP**, **Cyber Security**, **Blockchain Tech**
+- 🌱 Interested in learning **AWS Cloud Services**, **DevOps**, **Data Analysis**, **Data Science**, **Cyber Security**, **Blockchain Tech**
 
 - 👯 I’m looking to collaborate on **Full Stack Web/App Development, Blockchain and Data Science Projects**
 
