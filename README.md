@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vrushank Amin</h1>
 <h3 align="center">A passionate full stack developer from Toronto, Ontario, Canada</h3>
 
-<I helped more than 3 startups to launch the innovative web apps which includes apps leveraging AI to manage the different operations. I built everything from the front-end to the back-end and everything in between.
+I helped more than 3 startups to launch the innovative web apps which includes apps leveraging AI to manage the different operations. I built everything from the front-end to the back-end and everything in between.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrushank796&label=Profile%20views&color=0e75b6&style=flat" alt="vrushank796" /> </p> -->
 
