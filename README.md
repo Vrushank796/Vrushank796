@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrushank Amin</h1>
-<h3 align="center">A passionate full stack developer from Toronto, Ontario, Canada</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 I helped more than 3 startups to launch the innovative web apps which includes apps leveraging AI to manage the different operations. I built everything from the front-end to the back-end and everything in between.
 
