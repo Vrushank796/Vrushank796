@@ -26,7 +26,7 @@ I helped more than 3 startups to launch the innovative web apps which includes a
 [https://vrushankamin.vercel.app/](https://vrushankamin.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://linkedin.com/in/vrushank-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrushank-amin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13454865/vrushank-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13454865/vrushank-amin" height="30" width="40" /></a>
 <a href="https://instagram.com/vrushank_1920/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrushank_1920/" height="30" width="40" /></a>
